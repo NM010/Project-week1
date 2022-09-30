@@ -1,0 +1,200 @@
+{
+    "utenti": [
+        {
+            "id_utente": 1,
+            "nome": "giovanni",
+            "cognome": "rossi",
+            "genere": "uomo",
+            "eta": 22,
+            "indirizzo": {
+                "citta": "catania",
+                "via": "mare",
+                "n_civ": 55
+            },
+            "km_perc_gen21": 20,
+            "reg_corsa": "sicilia",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-25",
+                "2022-01-29",
+                "2022-01-30"
+            ]
+        },
+        {
+            "id_utente": 2,
+            "nome": "filippo",
+            "cognome": "verdi",
+            "genere": "uomo",
+            "eta": 32,
+            "indirizzo": {
+                "citta": "milano",
+                "via": "napoli",
+                "n_civ": 2
+            },
+            "km_perc_gen21": 31,
+            "reg_corsa": "lombardia",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-10",
+                "2022-01-19",
+                "2022-01-26"
+            ]
+        },
+        {
+            "id_utente": 3,
+            "nome": "laura",
+            "cognome": "lopez",
+            "genere": "donna",
+            "eta": 18,
+            "indirizzo": {
+                "citta": "novara",
+                "via": "assisi",
+                "n_civ": 76
+            },
+            "km_perc_gen21": 9,
+            "reg_corsa": "piemonte",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-9",
+                "2022-01-19",
+                "2022-01-30"
+            ]
+        },
+        {
+            "id_utente": 4,
+            "nome": "andrea",
+            "cognome": "ferri",
+            "genere": "donna",
+            "eta": 33,
+            "indirizzo": {
+                "citta": "palermo",
+                "via": "giulio cesare",
+                "n_civ": 89
+            },
+            "km_perc_gen21": 29,
+            "reg_corsa": "sicilia",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-4",
+                "2022-01-19",
+                "2022-01-18"
+            ]
+        },
+        {
+            "id_utente": 5,
+            "nome": "alice",
+            "cognome": "zeta",
+            "genere": "donna",
+            "eta": 31,
+            "indirizzo": {
+                "citta": "venezia",
+                "via": "san francesco",
+                "n_civ": 2
+            },
+            "km_perc_gen21": 9,
+            "reg_corsa": "veneto",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-4",
+                "2022-01-19",
+                "2022-01-18"
+            ]
+        },
+        {
+            "id_utente": 6,
+            "nome": "gloria",
+            "cognome": "beta",
+            "genere": "donna",
+            "eta": 27,
+            "indirizzo": {
+                "citta": "pisa",
+                "via": "piave",
+                "n_civ": 44
+            },
+            "km_perc_gen21": 43,
+            "reg_corsa": "toscana",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-6",
+                "2022-01-19",
+                "2022-01-28"
+            ]
+        },
+        {
+            "id_utente": 7,
+            "nome": "gloria",
+            "cognome": "beta",
+            "genere": "donna",
+            "eta": 27,
+            "indirizzo": {
+                "citta": "genova",
+                "via": "roma",
+                "n_civ": 34
+            },
+            "km_perc_gen21": 43,
+            "reg_corsa": "liguria",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-2",
+                "2022-01-17"
+            ]
+        },
+        {
+            "id_utente": 8,
+            "nome": "maria",
+            "cognome": "luce",
+            "genere": "donna",
+            "eta": 27,
+            "indirizzo": {
+                "citta": "cosenza",
+                "via": "rossini",
+                "n_civ": 34
+            },
+            "km_perc_gen21": 43,
+            "reg_corsa": "calabria",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-2",
+                "2022-01-17"
+            ]
+        },
+        {
+            "id_utente": 9,
+            "nome": "mario",
+            "cognome": "liberato",
+            "genere": "uomo",
+            "eta": 27,
+            "indirizzo": {
+                "citta": "napoli",
+                "via": "roma",
+                "n_civ": 34
+            },
+            "km_perc_gen21": 43,
+            "reg_corsa": "campania",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-2",
+                "2022-01-17"
+            ]
+        },
+        {
+            "id_utente": 10,
+            "nome": "daniel",
+            "cognome": "verdi",
+            "genere": "uomo",
+            "eta": 27,
+            "indirizzo": {
+                "citta": "roma",
+                "via": "genova",
+                "n_civ": 99
+            },
+            "km_perc_gen21": 43,
+            "reg_corsa": "lazio",
+            "accesso_mese_gen21": true,
+            "accesso": [
+                "2022-01-2",
+                "2022-01-17"
+            ]
+        },
+    ]
+}

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- il file riporta le popolazioni divisi per genere (uomo, donna) per ogni singola regione italiana riferita all'anno 2021. nome_reg= nome regione; pop_res= popolazione totale residente nella regione di riferimeto
+-->
+
+<regione> 
+    <nome_reg>abruzzo</nome_reg>
+        <pop_res anno="2021">32855</pop_res>
+            <genere>    
+                <uomo>13142</uomo>
+                <donna>19713</donna>
+            </genere>    
+    <nome_reg >basilicata</nome_reg>
+        <pop_res anno="2021">4735</pop_res>
+            <genere>    
+                <uomo>2366</uomo>
+                <donna>2367</donna>
+            </genere>
+        <nome_reg>calabria</nome_reg>
+            <pop_res anno="2021">32855</pop_res>
+                <genere>    
+                    <uomo>13142</uomo>
+                    <donna>19713</donna>
+                </genere> 
+        <nome_reg>campania</nome_reg>
+    <pop_res anno="2021">66940</pop_res>
+        <genere>    
+            <uomo>33470</uomo>
+            <donna>33470</donna>
+        </genere> 
+        <nome_reg>emilia_romagna</nome_reg>
+    <pop_res anno="2021">196830</pop_res>
+        <genere>    
+            <uomo>98410</uomo>
+            <donna>98420</donna>
+        </genere> 
+        <nome_reg>friuli_venezia_giulia</nome_reg>
+    <pop_res anno="2021">32855</pop_res>
+        <genere>    
+            <uomo>13142</uomo>
+            <donna>19713</donna>
+        </genere> 
+        <nome_reg>lazio</nome_reg>
+    <pop_res anno="2021">5709263</pop_res>
+        <genere>    
+            <uomo>3000000</uomo>
+            <donna>2700000</donna>
+        </genere> 
+        <nome_reg>liguria</nome_reg>
+    <pop_res anno="2021">32855</pop_res>
+        <genere>    
+            <uomo>13142</uomo>
+            <donna>19713</donna>
+        </genere> 
+        <nome_reg>lombardia</nome_reg>
+    <pop_res anno="2021">9964489</pop_res>
+        <genere>    
+            <uomo>4000000</uomo>
+            <donna>567820</donna>
+        </genere>
+        <nome_reg>marche</nome_reg>
+    <pop_res anno="2021">32855</pop_res>
+        <genere>    
+            <uomo>13142</uomo>
+            <donna>19713</donna>
+        </genere> 
+        <nome_reg>molise</nome_reg>
+    <pop_res anno="2021">32855</pop_res>
+        <genere>    
+            <uomo>13142</uomo>
+            <donna>19713</donna>
+        </genere> 
+        <nome_reg>piemonte</nome_reg>
+    <pop_res anno="2021">4243677</pop_res>
+        <genere>    
+            <uomo>2300000</uomo>
+            <donna>1900000</donna>
+        </genere> 
+        <nome_reg>puglia</nome_reg>
+    <pop_res anno="2021">3899252</pop_res>
+        <genere>    
+            <uomo>2000000</uomo>
+            <donna>189252</donna>
+        </genere>
+        <nome_reg>sardegna</nome_reg>
+    <pop_res anno="2021">1572200</pop_res>
+        <genere>    
+            <uomo>7000000</uomo>
+            <donna>8572200</donna>
+        </genere> 
+        <nome_reg>sicilia</nome_reg>
+    <pop_res anno="2021">4782457</pop_res>
+        <genere>    
+            <uomo>2200000</uomo>
+            <donna>2500000</donna>
+        </genere> 
+        <nome_reg>toscana</nome_reg>
+    <pop_res anno="2021">3669191</pop_res>
+        <genere>    
+            <uomo>3000000</uomo>
+            <donna>669191</donna>
+        </genere>
+        <nome_reg>trentino_altoadige</nome_reg>
+    <pop_res anno="2021">1078408</pop_res>
+        <genere>    
+            <uomo>5100000</uomo>
+            <donna>4980000</donna>
+        </genere>
+        <nome_reg>umbria</nome_reg>
+    <pop_res anno="2021">32855</pop_res>
+        <genere>    
+            <uomo>13142</uomo>
+            <donna>19713</donna>
+        </genere>
+        <nome_reg>valled_aosta</nome_reg>
+    <pop_res anno="2021">32855</pop_res>
+        <genere>    
+            <uomo>13142</uomo>
+            <donna>19713</donna>
+        </genere>
+        <nome_reg>veneto</nome_reg>
+    <pop_res anno="2021">4847327</pop_res>
+        <genere>    
+            <uomo>2000000</uomo>
+            <donna>2847327</donna>
+        </genere>                  
+</regione>
+
+
+
